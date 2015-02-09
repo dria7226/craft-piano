@@ -1,12 +1,12 @@
 # craft-piano
 
-#Instal
+# Install
 $ npm install craft-piano
 
-#Example
+# Example
 ```html
 <craft>
-	<craft name="piano" module="craft-piano">
+	<craft name="piano" module="craft-piano"/>
 	<piano></piano>
 </craft>
 ```
